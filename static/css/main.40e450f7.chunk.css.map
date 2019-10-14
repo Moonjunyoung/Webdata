@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.css","FailureOptiontable.css"],"names":[],"mappings":"AAAA,OACI,iBAAkB,CAClB,UAEJ,CCJA,mCACI,WAAY,CACZ,aACJ","file":"main.40e450f7.chunk.css","sourcesContent":[".title{\r\n    text-align: center;\r\n    color:grey;\r\n    \r\n}",".MuiPaper-root{\r\n    width: 800px;\r\n    margin: 0 auto;\r\n}"]}
